@@ -1,6 +1,10 @@
-# Payment Strip
- Pay using the Stripe payment gateway 
+# Payment
 
-### PHP (laravel framework)
+## PayPal  - Visa - Master card - Mada 
+
+#### using 
+##### - hyper pay
+##### - PayPal SDK 
+
 
  
